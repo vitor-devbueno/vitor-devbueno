@@ -9,6 +9,7 @@ I'm a Back-End Development enthusiast building a strong foundation in Computer S
 ### 🚀 About Me
 - 🎓 Currently pursuing a Bachelor's degree in **Computer Science**.
 - 🛠️ Technical training in **Systems Development** at **SENAI**.
+- 🕹️ Background in **Game Development** at **ETEC** (focused on Logic, OOP, MySQL, and Mobile Development).
 - 🎯 Focused on **Back-End Development** and Software Architecture.
 - 🧪 Currently learning: **Data Science**, **Object-Oriented Programming (OOP)**, **Database Programming**, and **Flutter**.
 - 💬 Ask me about: **Python**, **Java**, **MySQL**, **Linux**, and **Git/GitHub**.
