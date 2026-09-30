@@ -1,13 +1,13 @@
 # Hi there, I'm Vitor Bueno 👋
 
-🎓 **systems analysis and development** | 💻 **Systems Development Tech - SENAI**
+🎓 **Systems Analysis and Development** | 💻 **Systems Development Tech - SENAI**
 
 I'm a Back-End Development enthusiast building a strong foundation in Computer Science while gaining hands-on software development experience at SENAI.
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing a degree in **systems analysis and development**.
+- 🎓 Currently pursuing a degree in **Systems Analysis and Development**.
 - 🛠️ Technical training in **Systems Development** at **SENAI**.
 - 🕹️ Background in **Game Development** at **ETEC** (focused on Logic, OOP, MySQL, and Mobile Development).
 - 🎯 Focused on **Back-End Development** and Software Architecture.
